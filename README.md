@@ -2,7 +2,7 @@
 
 ## About Me
 - 🖥️ I love to program, whether it be web development, machine learning, data structures/algorithms, or other stuff!
-- 💻 Here is my [portfolio website][website], showcasing off some of my projects
+- 💻 Here is my [portfolio website][website], showcasing some of my projects
 - 📚 I am a junior in high school in the NJ/NYC metro area
 - 🌱 2021 Goal: Learn & Make More
 
@@ -26,9 +26,9 @@
 
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height=22/>
 
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon AWS&logoColor=white" height=22/>
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonAWS&logoColor=white" height=22/>
 
-  <img alt="Git" src="https://img.shields.io/badge/-AWS-F05032?style=flat-square&logo=git&logoColor=white" height=22/>  
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height=22/>  
   
 </p>
 
