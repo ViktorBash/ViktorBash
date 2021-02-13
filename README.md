@@ -32,10 +32,10 @@
   
 </p>
 
-## What I'm Working On
-- Learning more React and frontend
-- Using Django/DRF to create REST APIs on the backend
-- Deploying to cloud providers for DevOps
+## What I'm Working On  😁 
+- ✅ Learning more React and frontend
+- ✅ Using Django/DRF to create REST APIs on the backend
+- ✅ Deploying to cloud providers for DevOps
 
 
 ## Reach Me:
