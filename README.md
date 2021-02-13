@@ -41,7 +41,7 @@
 <img alt="Viktor Basharkevich's GitHub Stats" src="https://github-readme-stats-weld-two.vercel.app/api?username=ViktorBash&show_icons=true&hide_border=true&count_private=true&theme=algolia&include_all_commits=true&hide=stars"/>
 
 ## Reach Me:
-<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" height=30 /></a>
+<p><a href="https://github.com/viktorbash" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" height=30 /></a>
 <a href="https://www.viktorbash.com" target="_blank"><img alt="My Website" src="https://img.shields.io/badge/Website-%3113.svg?style=for-the-badge&logoColor=white?coor=#3655FF" height=30/></a>
 <a href="https://www.linkedin.com/in/viktorbash" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=30/></a><p>
 
