@@ -3,7 +3,7 @@
 ## About Me
 - 🖥️ I love to program, whether it be web development, machine learning, data structures/algorithms, or other stuff!
 - 💻 Here is my [portfolio website][website], showcasing some of my projects
-- 📚 I am a junior in high school in the NJ/NYC metro area
+- 📚 I am a rising senior in high school in the NJ/NYC metro area
 - 🌱 2021 Goal: Learn & Make More
 
 ## Tech I Use:
