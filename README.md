@@ -36,7 +36,7 @@
   
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white" height=22/>
   
-  <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height=22/>
+  <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-squaree&logo=scikit-learn&logoColor=white" height=22/>
   
 </p>
 
