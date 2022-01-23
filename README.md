@@ -1,10 +1,10 @@
 # Hi there, I'm Viktor Basharkevich 👋
 
 ## About Me
-- 🖥️ I love to program, whether it be web development, machine learning, data structures/algorithms, or other stuff!
-- 💻 Here is my [portfolio website][website], showcasing some of my projects
-- 📚 I am a senior in high school in the NJ/NYC metro area
-- 🌱 Goal: Learn & Make More
+- 🖥️ I love to program, whether it be frontend web dev, backend web dev, machine learning, data analysis, or other stuff
+- 💻 Here is my [portfolio website][website], showcasing my projects and resume
+- 📚 I am a senior in high school in the NJ/NYC metro area, I will be attending Columbia as a CS major in the fall
+- 🌱 Goals: Learn More Tech, Make More Projects
 
 ## Tech I Use:
 <p>
@@ -33,9 +33,10 @@
 </p>
 
 ## What I'm Working On  😁 
-- ✅ Learning more React and frontend
+- ✅ Building frontends in React
+- ✅ Learning UI/UX
 - ✅ Using Django/DRF to create REST APIs on the backend
-- ✅ Deploying to cloud providers for DevOps
+- ✅ Deploying to cloud providers
 
 ## GitHub Stats
 <img alt="Viktor Basharkevich's GitHub Stats" src="https://github-readme-stats-weld-two.vercel.app/api?username=ViktorBash&show_icons=true&hide_border=true&count_private=true&theme=algolia&include_all_commits=true&hide=stars"/>
