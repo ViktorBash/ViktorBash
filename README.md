@@ -1,4 +1,4 @@
-# Hi there, I'm Viktor Basharkevich 👋
+# Viktor Basharkevich
 
 ## About Me
 - 🖥️ I love to program, whether it be frontend web dev, backend web dev, machine learning, data analysis, or other stuff
