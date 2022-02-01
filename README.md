@@ -1,10 +1,10 @@
 # Viktor Basharkevich
 
 ## About Me
-- 🖥️ I love to program, whether it be frontend web dev, backend web dev, machine learning, data analysis, or other stuff
+- 🖥️ I focus on frontend/backend web development, machine learning and other stuff
 - 💻 Here is my [portfolio website][website], showcasing my projects and resume
-- 📚 I am a senior in high school in the NJ/NYC metro area, I will be attending Columbia as a CS major in the fall
-- 🌱 Goals: Learn More Tech, Make More Projects
+- 📚 I am a senior in high school in the NJ/NYC metro area, and will be attending Columbia as a CS major in the fall
+- 🌱 Goals: Learn More Tech, Build More Projects
 
 ## Tech I Use:
 <p>
@@ -19,13 +19,9 @@
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height=22/>
 
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height=22/>
-
-  <img alt="BootStrap" src="https://img.shields.io/badge/-BootStrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" height=22/>
   
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" height=22/>
   
-  <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" height=22/>
-
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height=22/>
 
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonAWS&logoColor=white" height=22/>
