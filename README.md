@@ -1,6 +1,6 @@
 # Viktor Basharkevich
 
-## About Me
+## About Me:
 - 🖥️ I focus on frontend/backend web development, machine learning and other stuff
 - 💻 Here is my [portfolio website][website], showcasing my projects and resume
 - 📚 I am a senior in high school in the NJ/NYC metro area, and will be attending Columbia as a CS major in the fall
@@ -36,13 +36,13 @@
   
 </p>
 
-## What I'm Working On
+## What I'm Working On:
 - ✅ Building frontends in React
 - ✅ Learning UI/UX
 - ✅ Using Django/DRF to create REST APIs on the backend
 - ✅ Deploying to cloud providers
 
-## GitHub Stats
+## GitHub Stats:
 <img alt="Viktor Basharkevich's GitHub Stats" src="https://github-readme-stats-weld-two.vercel.app/api?username=ViktorBash&show_icons=true&hide_border=true&count_private=true&theme=algolia&include_all_commits=true&hide=stars"/>
 
 ## Reach Me:
