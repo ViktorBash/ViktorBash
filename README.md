@@ -37,10 +37,10 @@
 </p>
 
 ## What I'm Working On:
-- ✅ Building frontends in React
 - ✅ Learning UI/UX
 - ✅ Using Django/DRF to create REST APIs on the backend
 - ✅ Deploying to cloud providers
+- ✅ Using all of the above to build out product ideas 🔨
 
 ## GitHub Stats:
 <img alt="Viktor Basharkevich's GitHub Stats" src="https://github-readme-stats-weld-two.vercel.app/api?username=ViktorBash&show_icons=true&hide_border=true&count_private=true&theme=algolia&include_all_commits=true&hide=stars"/>
