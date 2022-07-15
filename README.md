@@ -1,7 +1,7 @@
 # Viktor Basharkevich
 
 ## About Me:
-- 🖥️ I focus on frontend/backend web development, machine learning and other stuff
+- 🖥️ I focus on frontend/backend web development, machine learning, DevOps, and other stuff
 - 💻 Here is my [portfolio website][website], showcasing my projects and resume
 - 📚 I am a senior in high school in the NJ/NYC metro area, and will be attending Columbia as a CS major in the fall
 - 🌱 Goals: Learn More Tech, Build More Projects
