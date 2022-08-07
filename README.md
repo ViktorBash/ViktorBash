@@ -2,8 +2,8 @@
 
 ## About Me:
 - 🖥️ I focus on frontend/backend web development, machine learning, DevOps, and other stuff
-- 💻 Here is my [portfolio website][website], showcasing my projects and resume
-- 📚 I am a senior in high school in the NJ/NYC metro area, and will be attending Columbia as a CS major in the fall
+- 💻 Here is my [portfolio website][website], showcasing my work experience, projects and resume
+- 📚 I am a freshman at Columbia University in NYC, majoring in CS 
 - 🌱 Goals: Learn More Tech, Build More Projects
 
 ## Tech I Use:
@@ -38,9 +38,7 @@
 
 ## What I'm Working On:
 - ✅ Learning UI/UX
-- ✅ Using Django/DRF to create REST APIs on the backend
-- ✅ Deploying to cloud providers
-- ✅ Using all of the above to build out product ideas 🔨
+- ✅ Building products out
 
 ## GitHub Stats:
 <img alt="Viktor Basharkevich's GitHub Stats" src="https://github-readme-stats-weld-two.vercel.app/api?username=ViktorBash&show_icons=true&hide_border=true&count_private=true&theme=algolia&include_all_commits=true&hide=stars"/>
