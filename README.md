@@ -8,6 +8,7 @@
 - 🌱 Goals: Build & Ship Products
 
 ## Tech I Use:
+<p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height=26/>
 
   <img alt="Django" src="https://img.shields.io/badge/-Django/DRF-092E20?style=flat-square&logo=django&logoColor=whie" height=26/>
@@ -41,6 +42,7 @@
   <img alt="Azure" src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white" height=26/>
 
   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)" height=26/>
+</p>
 
 
 ## What I'm Working On:
