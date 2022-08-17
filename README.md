@@ -14,7 +14,8 @@
 
 \*__I am always looking to learn more technologies!__
 
-[//]: # (This is a commented out list of icons (the table above is messier, but necessary for table format)
+
+[//]: # (All the lines below are just a list of the icons (which is less messy). The table is really messy because there's not really a better way to do it that I've found)
 [//]: # (<p>)
 
 [//]: # (  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height=26/>)
