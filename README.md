@@ -2,7 +2,7 @@
 
 ## About Me:
 - 📗 I'm currently studying computer science at Columbia in NYC 
-- 💼 I'm also a SWE intern at Themis Technology
+- 💼 I've also been a SWE intern at Themis Technology
 - 🖥️ I focus on frontend/backend web development, machine learning, DevOps, and other stuff
 - 💻 Here is my **[portfolio website][website]**, showcasing my work experience, projects and resume
 - 🌱 What I'm Working On: Building & Shipping Products 🚀
