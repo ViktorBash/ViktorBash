@@ -4,16 +4,16 @@
 - 📗 I'm currently studying computer science at Columbia in NYC 
 - 💼 I've also worked as a SWE at Themis Technology
 - 🖥️ I've done frontend/backend web development, machine learning, DevOps, and other stuff
-- 💻 Here is my **[portfolio website][website]**, showcasing my work experience, projects and resume
+- 💻 Here is my **[portfolio website][website]**, showcasing my work experience, projects and **[resume][resume]**
 
 ## Projects Overview
 Please check out my **[portfolio website][website]** for a full showcase of my projects!
 
-- ### [Vim For Google Docs][vimfordocs] - Use Vim Keybindings In Google Docs
-- ### [Minimalist Blog Builder][pageful] - Build A Clean Blog With Markdown
-- ### [Stock Sentiment Analysis][marketeye] - See Sentiment of Stocks With Twitter Data
-- ### [Personality Matching With Machine Learning][krkly] - Match People Together
-- ### [Sorting Visualizer][sorting] - Visualize Common Sorting Algorithms
+ ### ⌨️ [Vim For Google Docs][vimfordocs] - Use Vim Keybindings In Google Docs
+ ### 👷 [Minimalist Blog Builder][pageful] - Build A Clean Blog With Markdown
+ ### 📈 [Stock Sentiment Analysis][marketeye] - See Sentiment of Stocks With Twitter Data
+ ### 🔮 [Personality Matching With Machine Learning][krkly] - Match People Together
+ ### 🔄 [Sorting Visualizer][sorting] - Visualize Common Sorting Algorithms
 
 ## Tech I've Used:
 | Frontend                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Backend & ML                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Cloud                                                                                                                                                                                                                                                                                                                                                                                                      |
@@ -86,6 +86,7 @@ Please check out my **[portfolio website][website]** for a full showcase of my p
 <a href="https://www.linkedin.com/in/viktorbash" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=33/></a><p>
 
 [website]: https://www.viktorbash.com/
+[resume]: https://www.viktorbash.com/resume.pdf
 
 [pageful]: https://pageful.is/
 [vimfordocs]: https://chrome.google.com/webstore/detail/vim-for-google-docs/aphmodfjbhofkpibocbggkdfnpbpjmpp
