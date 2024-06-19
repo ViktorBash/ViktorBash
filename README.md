@@ -2,7 +2,7 @@
 
 ## About Me:
 - 📗 I'm currently studying computer science at Columbia in NYC 
-- 💼 I've also worked as a SWE at Themis Technology
+- 💼 I'm a SWE Intern at JPMorgan & Chase and have worked at Themis Technology as a SWE
 - 🖥️ I've done frontend/backend web development, machine learning, DevOps, and other stuff
 - 💻 Here is my **[portfolio website][website]**, showcasing my work experience, projects and **[resume][resume]**
 
